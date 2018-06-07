@@ -22,21 +22,21 @@ paginate = 20
     url  = "/"
     weight = 1
 
-# [[menu.main]]
-#     name = "Blog"
-#     url  = "/blog/"
-#     weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
 
-# [[menu.main]]
-#     name = "FAQ"
-#     identifier = "faq"
-#     url  = "/faq/"
-#     weight = 3
+[[menu.main]]
+    name = "FAQ"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 3
 
-# [[menu.main]]
-#     name = "Contact"
-#     url  = "/contact/"
-#     weight = 4
+ [[menu.main]]
+     name = "Contact"
+     url  = "/contact/"
+     weight = 4
 
 # Top bar social links menu
 
@@ -74,7 +74,7 @@ paginate = 20
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "violet"
+    style = "turquoise"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -134,12 +134,14 @@ paginate = 20
 
 [params.features]
     enable = true
+    readmore = "Checkout GlowTown's philosophy"
+    readmore_link = "/faq/"
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -147,12 +149,12 @@ paginate = 20
     subtitle = "See what the users playing our games say"
 
 [params.see_more]
-    enable = false
+    enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Do you want to see all our games and apps?"
+    subtitle = "Checkout our pages in each STORE and discover all our games!"
+    link_url = "https://play.google.com/store/apps/developer?id=GlowTown+Studio"
+    link_text = "Google play"
 
 [params.clients]
     enable = false
@@ -163,7 +165,7 @@ paginate = 20
     subtitle = ""
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 
