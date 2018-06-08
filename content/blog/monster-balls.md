@@ -1,5 +1,5 @@
 +++
-title = "Family firendly Monter balls!"
+title = "Family friendly Monster balls!"
 date = "2018-03-09T12:34:00+02:00"
 tags = ["apps", "Games"]
 categories = ["apps", "experiment", "games"]
