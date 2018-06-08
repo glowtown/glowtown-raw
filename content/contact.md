@@ -1,8 +1,8 @@
 +++
-title = "Contact"
+title = "Contact US"
 id = "contact"
 +++
 
-# We are here to help you
+# We are all ears to your suggestions!
 
-We are happy to know what you think of us! So please, do not hesitate to contact us!
+If you have any suggestion for any of our apps/games or if you want to talk to us for any reason
