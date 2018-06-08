@@ -1,6 +1,6 @@
 weight: 5
 title: "Beautiful and simple Crypto tracking app"
-description: '<img src="img/appstore.png" height="77" width="200"/>
+description: '<img class="gray-out" src="img/appstore.png" height="77" width="200"/>
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.datract.cryptohodler.pro">
     <img src="img/play badge.png" height="77" width="200"/>
   </a>'
