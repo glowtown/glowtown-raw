@@ -23,7 +23,7 @@ The application features an easy workflow to add Assets:
 
 
 {{< figure src="/img/posts/coin.webp" title="Select Crypto" class="figure-left" height="400" target="_blank" link="/img/posts/coin.webp">}}
-{{< figure src="/img/posts/broker.webp" title="Broker and Pair" class="figure-left" height="400" target="_blank" link="/img/posts/broker.webp">}}
+{{< figure src="/img/posts/brokers.webp" title="Broker and Pair" class="figure-left" height="400" target="_blank" link="/img/posts/broker.webp">}}
 {{< figure src="/img/posts/chart.webp" title="Chart" class="figure-left" height="400" target="_blank" link="/img/posts/chart.png">}}
 {{< figure src="/img/posts/assets.webp" title="Asset List" class="figure-left" height="400" target="_blank" link="/img/posts/assets.png">}}
 
